@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.1
 
-FROM       alpine:3.2
+FROM       alpine:latest
 MAINTAINER exsules <contact@exsules.com>
 
 # Set locale
